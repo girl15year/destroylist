@@ -7690,11 +7690,11 @@
     },
     "site_builders": {
       "total_domains": 12,
-      "total_entries": 1311,
+      "total_entries": 1313,
       "items": [
         {
           "domain": "webflow.io",
-          "count": 522,
+          "count": 523,
           "hosts": [
             "app-new-lido.webflow.io",
             "arbiscan-com.webflow.io",
@@ -8170,6 +8170,7 @@
             "suivision-xyz.webflow.io",
             "suport-metmskki.webflow.io",
             "suportt-metamacklogg.webflow.io",
+            "support-sui-io.webflow.io",
             "tax-resources-opensea.webflow.io",
             "tons-wallet.webflow.io",
             "trcerrwallet.webflow.io",
@@ -8385,7 +8386,7 @@
         },
         {
           "domain": "gitbook.io",
-          "count": 125,
+          "count": 126,
           "hosts": [
             "3gnexus.gitbook.io",
             "a-rodrome.gitbook.io",
@@ -8495,6 +8496,7 @@
             "org-metsmkesk-login.gitbook.io",
             "phantamullatex.gitbook.io",
             "pixel-game-campnetwork.gitbook.io",
+            "plasma-domains.gitbook.io",
             "polkadotjs-book.gitbook.io",
             "rabbywalleten.gitbook.io",
             "rabinhood-login.gitbook.io",
