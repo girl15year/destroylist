@@ -6,11 +6,11 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 17,
-      "total_entries": 7577,
+      "total_entries": 7578,
       "items": [
         {
           "domain": "pages.dev",
-          "count": 5080,
+          "count": 5081,
           "hosts": [
             "00000000000000000000000.pages.dev",
             "0145-53l.pages.dev",
@@ -2257,6 +2257,7 @@
             "krakenlogings.pages.dev",
             "krakenn-en-web.pages.dev",
             "krakenpromo-cc.pages.dev",
+            "krakenqr-com.pages.dev",
             "krakenrealm.pages.dev",
             "krakenrpc.pages.dev",
             "krakenrpg-cc.pages.dev",
