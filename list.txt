@@ -20336,7 +20336,6 @@ gho-stakes.it.com
 gho-v4.com.pendelfi.com
 ghocourse.it.com
 ghodefi.top
-ghost.allocationx.cc
 ghostapi.io
 ghostroom-rewards.xyz
 ghostswap.io
@@ -40619,6 +40618,7 @@ sonelum.app
 sonerviac.vercel.app
 sonic-airdrop-guide.pages.dev
 sonic-game.live
+sonic-paintswap.xyz
 sonic.web3crypto.money
 soniclab-airdrop.com
 soniclabs.asia
