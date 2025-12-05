@@ -6,11 +6,11 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 17,
-      "total_entries": 7578,
+      "total_entries": 7579,
       "items": [
         {
           "domain": "pages.dev",
-          "count": 5081,
+          "count": 5082,
           "hosts": [
             "00000000000000000000000.pages.dev",
             "0145-53l.pages.dev",
@@ -4971,6 +4971,7 @@
             "web3-1503--roadmap-behavior.website-private-v2.pages.dev",
             "web3-legre-live-app.pages.dev",
             "web3-live-apps-ldgr.pages.dev",
+            "web3-metmaskio-learn.pages.dev",
             "web3-okx-okxnext0010.pages.dev",
             "web3-walletdapp-remote-protocol.pages.dev",
             "web3dapp-radarr.pages.dev",
