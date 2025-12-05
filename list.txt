@@ -22043,6 +22043,7 @@ helprevcassh.world
 helprevocash.world
 helps--bridge.pages.dev
 helps--coinbase--exts.webflow.io
+helps-coin-base-cdn.daftpage.com
 helps-coinbaes-exts-sso.webflow.io
 helps-coinbaes-extso.webflow.io
 helps-coinbase-sign.pages.dev
@@ -28688,6 +28689,7 @@ mantlesxyz.org
 mantlew.org
 mantlibredge.org
 mantra-airdrop-check-guide.pages.dev
+mantra-dex.ink
 mantra-dex.org
 mantra-dex.zone
 mantra-migration.top
@@ -41547,6 +41549,7 @@ stellar.hub-airdropalert.cfd
 stellar.org.im
 stellar.portal-drops.sbs
 stellar.portal-hubs.lat
+stellarblockchain.io
 stellarblockchain.network
 stellarblocknetwork.com
 stellarbristol.com
@@ -46434,15 +46437,21 @@ v0-kraken-silk.vercel.app
 v0-new-project-pnj5sfs9gay.vercel.app
 v0-polkadot-credit-score.vercel.app
 v03k.xyz
+v1-aav.sbs
 v1-api-paymenthighway.cfd
 v1-api-paymenthighway.sbs
 v1-cigen.sbs
+v1-cigen.top
 v1-hyperliquid.com
 v1-ledger.co.com
 v1-ledger.live
 v1-mev-dex.top
+v1-mev.sbs
 v1-phantom.at
 v1-pnc-dex.top
+v1-pncdex.sbs
+v1-unidex.sbs
+v1-wrmh.sbs
 v1-wrmh.top
 v1.generatehelpticket.info
 v1prest.com
@@ -47891,6 +47900,8 @@ web-bitget.cloud
 web-bitget.com
 web-cd-uphold-io.pages.dev
 web-chrome-extension-coinbase.typedream.app
+web-coiinpro-base-us.daftpage.com
+web-coin-base-loggin-cdn.daftpage.com
 web-coinbaase-pro--learn.pages.dev
 web-coinbas-com-auths.pages.dev
 web-coinbas-xtension.pages.dev
