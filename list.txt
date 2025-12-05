@@ -5454,6 +5454,7 @@ atesada.shop
 ath.fail
 ath.rip
 athcheck.com
+athcheck.xyz
 athgiveaway.live
 athnrwwgoor.tauzetaomega.org
 atlanticargoexpress.com
@@ -6305,6 +6306,7 @@ base.walletportal.online
 base55.app
 baseairdrop.online
 baseaml.live
+baseapp.dev
 basechainswap.com
 basecir.sbs
 basecoin.me
@@ -11826,6 +11828,7 @@ coin-basemainnet.pages.dev
 coin-basepro-loggin.pages.dev
 coin-basepro-web.pages.dev
 coin-bases-login.pages.dev
+coin-basewallet-extension.daftpage.com
 coin-bay.net
 coin-benefits.com
 coin-bess-pro.pages.dev
@@ -14798,6 +14801,7 @@ decexilunchpad.dev
 dechain08.netlify.app
 dechat-io.com
 decilun.sbs
+declaration-amf.fr
 declaration-cryptofr.com
 declare-income.com
 deconweb.online
@@ -17691,6 +17695,7 @@ event-ondo.network
 event-onyxs.org
 event-pepuschained.com
 event-pinetwork.com
+event-ploi.xyz
 event-pump.fun
 event-useless.net
 event-useless.network
@@ -23976,6 +23981,7 @@ jovielogin.vercel.app
 joxboom.com
 joxboom.top
 joybit.run
+joyboy88a-amp.xyz
 joycas.net
 joycas.pw
 joydinero.com
@@ -28643,6 +28649,7 @@ maknaslots.com
 maktabahdaneyal.com
 malasia.coinbaseudt.my
 maldonite.xyz
+malenerosenberghansen.com
 malertes4.ru
 malinaautop.cfd
 malinaspin.com
@@ -38370,6 +38377,7 @@ safespork.com
 safestartfix.com
 safestways.com
 safesync.cloud
+safesyncinvest.online
 safetrade.cc
 safetrade.icu
 safetydimes.com
@@ -40388,6 +40396,7 @@ solsitce.finance
 solsline.com
 solsn1pe.xyz
 solsnapai.lol
+solsniff.com
 solsniffer.app
 solsnip.com
 solsniper-tool.com
@@ -44273,6 +44282,7 @@ treuzor-io.pages.dev
 trevelyanbd.com
 trex-sol.top
 trexobet.com
+trexocrosslinker.xyz
 trexorsuite-io.pages.dev
 trexvault.com
 trez-investment.com
@@ -47097,6 +47107,7 @@ vmxj0258.top
 vn-bitget.com
 vngazuic.digital
 vnhs.xyz
+vns.earn-en.pro
 vns.val-earn.info
 voadex.com
 voddex.com
