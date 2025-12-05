@@ -6,7 +6,7 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 17,
-      "total_entries": 7576,
+      "total_entries": 7577,
       "items": [
         {
           "domain": "pages.dev",
@@ -7194,12 +7194,13 @@
         },
         {
           "domain": "github.io",
-          "count": 138,
+          "count": 139,
           "hosts": [
             "abduazim10.github.io",
             "accshomecnfrm0log.github.io",
             "accshomepage-log.github.io",
             "aicodecollab.github.io",
+            "akashicmarga.github.io",
             "akashsp7.github.io",
             "altcoinbase.github.io",
             "amirmasnavi.github.io",
