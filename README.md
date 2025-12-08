@@ -3,6 +3,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="25" height="25" /> Quick Overview & Access <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" />
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="25" height="25" /> Quick Overview & Access <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" />
+
 ### Project Status
 ![Workflow Status](https://github.com/phishdestroy/destroylist/actions/workflows/daily_update.yml/badge.svg)
 ![Status](https://img.shields.io/badge/status-maintained-brightgreen?style=flat-square)
@@ -18,25 +20,56 @@
 | **Community Feed** | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/today_community.json&style=flat-square) | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/week_community.json&style=flat-square) |
 
 ### Domain Counters <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" />
-![Active Domains](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/destroylist/main/count.json&label=Active%20Domains&color=important&style=flat-square)
-![Active Domains (DNS Checked)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/active_count.json&label=Active%20Domains%20(DNS%20Checked)&color=purple&style=flat-square)
-![Total Domains (Community)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/count.json&label=Total%20Domains%20(Community)&color=blue&style=flat-square)
 
-### Data Feeds <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
+| Primary List | DNS Verified | Community |
+|:------------:|:------------:|:---------:|
+| ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/destroylist/main/count.json&style=for-the-badge&color=red) | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/active_count.json&style=for-the-badge) | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/count.json&style=for-the-badge&color=blue) |
 
-| Feed | Description | Update | Link |
-|------|-------------|--------|------|
-| **Primary List** | Core curated phishing/scam domains | Real-time | [list.json](https://github.com/phishdestroy/destroylist/raw/main/list.json) · [list.txt](https://github.com/phishdestroy/destroylist/raw/main/list.txt) |
-| **DNS Active** | Live domains (DNS verified) | Every 24h | [active_domains.json](https://github.com/phishdestroy/destroylist/raw/main/dns/active_domains.json) |
-| **Root List** | Root domains only (no subdomains) | Every 2h | [list.json](https://raw.githubusercontent.com/phishdestroy/destroylist/refs/heads/main/rootlist/active_root_domains.json) |
-| **Community** | Aggregated from external sources | Every 12h | [blocklist.json](https://github.com/phishdestroy/destroylist/raw/main/community/blocklist.json) |
-| **Community Live** | Community + DNS verified | Every 72h | [live_blocklist.json](https://github.com/phishdestroy/destroylist/raw/main/community/live_blocklist.json) |
-| **Allow List** | False positive protection | Manual | [allowlist.json](https://raw.githubusercontent.com/phishdestroy/destroylist/refs/heads/main/allow/allowlist.json) |
+---
 
-> **Important:**  
-> **Primary List** recommended for production blocking  
-> **Community feeds** auto-aggregated, report false positives to original sources  
-> **Allow List** overrides all blocklists for verified legitimate domains
+### 📋 Primary Feeds
+
+| Feed | Description | Update | Format |
+|:-----|:------------|:------:|:------:|
+| **[list.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/list.json)** | Core curated phishing/scam domains | `2h` | JSON |
+| **[list.txt](https://raw.githubusercontent.com/phishdestroy/destroylist/main/list.txt)** | Same as above, plain text | `2h` | TXT |
+| **[active_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/active_domains.json)** | DNS verified live domains | `24h` | JSON |
+| **[dead_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/dead_domains.json)** | Inactive/expired domains | `24h` | JSON |
+
+### 🌐 Community Feeds
+
+| Feed | Description | Update | Format |
+|:-----|:------------|:------:|:------:|
+| **[blocklist.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/blocklist.json)** | Aggregated from external sources | `2h` | JSON |
+| **[live_blocklist.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/live_blocklist.json)** | Community + DNS verified | `24h` | JSON |
+| **[dead_blocklist.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/dead_blocklist.json)** | Inactive community domains | `24h` | JSON |
+
+### 🌳 Root Domain Lists
+
+> Root lists contain only registered domains (e.g., `example.com` instead of `sub.example.com`)  
+> Hosting providers (vercel.app, github.io, etc.) are excluded to prevent false positives
+
+| Feed | Source | Description |
+|:-----|:------:|:------------|
+| **[active_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/active_root_domains.json)** | Primary | Root domains from main list |
+| **[online_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/online_root_domains.json)** | Primary | DNS verified roots only |
+| **[community_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/community_root_domains.json)** | Community | Root domains from community |
+| **[community_online_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/community_online_root_domains.json)** | Community | DNS verified community roots |
+| **[providers_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/providers_root_domains.json)** | Stats | Excluded hosting providers breakdown |
+
+### ✅ Allow List
+
+| Feed | Description |
+|:-----|:------------|
+| **[allowlist.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/allow/allowlist.json)** | False positive protection — overrides all blocklists |
+
+---
+
+> **💡 Recommendations:**
+> - **Production blocking** → use `list.json` or `active_domains.json`
+> - **Comprehensive coverage** → use `community/blocklist.json`
+> - **Firewall/DNS blocking** → use root domain lists
+> - **Community false positives** → report to original source feeds
 
 ### Connect With Us <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="25" height="25" />
 | Platform | Link |
