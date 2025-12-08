@@ -3,8 +3,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="25" height="25" /> Quick Overview & Access <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="25" height="25" /> Quick Overview & Access <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" />
-
 ### Project Status
 ![Workflow Status](https://github.com/phishdestroy/destroylist/actions/workflows/daily_update.yml/badge.svg)
 ![Status](https://img.shields.io/badge/status-maintained-brightgreen?style=flat-square)
@@ -27,49 +25,28 @@
 
 ---
 
-### 📋 Primary Feeds
+### 📋 Data Feeds <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
 
-| Feed | Description | Update | Format |
-|:-----|:------------|:------:|:------:|
-| **[list.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/list.json)** | Core curated phishing/scam domains | `2h` | JSON |
-| **[list.txt](https://raw.githubusercontent.com/phishdestroy/destroylist/main/list.txt)** | Same as above, plain text | `2h` | TXT |
-| **[active_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/active_domains.json)** | DNS verified live domains | `24h` | JSON |
-| **[dead_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/dead_domains.json)** | Inactive/expired domains | `24h` | JSON |
+| Feed | Description | Update |
+|:-----|:------------|:------:|
+| [list.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/list.json) / [list.txt](https://raw.githubusercontent.com/phishdestroy/destroylist/main/list.txt) | Core curated phishing/scam domains | Real-time |
+| [active_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/dns/active_domains.json) | DNS verified live domains | 24h |
+| [blocklist.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/blocklist.json) | Community aggregated list | 30min |
+| [live_blocklist.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/live_blocklist.json) | Community DNS verified | 24h |
 
-### 🌐 Community Feeds
+### 🌳 Root Lists <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Linked%20Paperclips.webp" alt="Linked Paperclips" width="25" height="25" />
 
-| Feed | Description | Update | Format |
-|:-----|:------------|:------:|:------:|
-| **[blocklist.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/blocklist.json)** | Aggregated from external sources | `2h` | JSON |
-| **[live_blocklist.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/live_blocklist.json)** | Community + DNS verified | `24h` | JSON |
-| **[dead_blocklist.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/dead_blocklist.json)** | Inactive community domains | `24h` | JSON |
+> Root domains only (no subdomains), hosting providers excluded
 
-### 🌳 Root Domain Lists
-
-> Root lists contain only registered domains (e.g., `example.com` instead of `sub.example.com`)  
-> Hosting providers (vercel.app, github.io, etc.) are excluded to prevent false positives
-
-| Feed | Source | Description |
-|:-----|:------:|:------------|
-| **[active_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/active_root_domains.json)** | Primary | Root domains from main list |
-| **[online_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/online_root_domains.json)** | Primary | DNS verified roots only |
-| **[community_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/community_root_domains.json)** | Community | Root domains from community |
-| **[community_online_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/community_online_root_domains.json)** | Community | DNS verified community roots |
-| **[providers_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/providers_root_domains.json)** | Stats | Excluded hosting providers breakdown |
-
-### ✅ Allow List
-
-| Feed | Description |
-|:-----|:------------|
-| **[allowlist.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/allow/allowlist.json)** | False positive protection — overrides all blocklists |
+| Primary | Community |
+|:--------|:----------|
+| [active_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/active_root_domains.json) | [community_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/community_root_domains.json) |
+| [online_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/online_root_domains.json) | [community_online_root_domains.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/rootlist/community_online_root_domains.json) |
 
 ---
 
-> **💡 Recommendations:**
-> - **Production blocking** → use `list.json` or `active_domains.json`
-> - **Comprehensive coverage** → use `community/blocklist.json`
-> - **Firewall/DNS blocking** → use root domain lists
-> - **Community false positives** → report to original source feeds
+> **💡 Use:** `list.json` for production · `active_domains.json` for live only · `blocklist.json` for max coverage  
+> **✅ Allow:** [allowlist.json](https://raw.githubusercontent.com/phishdestroy/destroylist/main/allow/allowlist.json) — false positive protection
 
 ### Connect With Us <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="25" height="25" />
 | Platform | Link |
