@@ -1,9 +1,9 @@
-Sync: +61 MetaMask, +16 Polkadot, +63 SEAL, +16 Enkrypt_Blacklist
+Sync: +76 MetaMask, +17 Codeesura, +0 PhishDestroy, +6 SEAL
 
-Total domains: 729226
+Total domains: 729263
 
 Changes:
-- MetaMask: +61
-- Polkadot: +16
-- SEAL: +63
-- Enkrypt_Blacklist: +16
+- MetaMask: +76
+- Codeesura: +17
+- PhishDestroy: +0
+- SEAL: +6
