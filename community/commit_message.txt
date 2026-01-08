@@ -1,7 +1,9 @@
-Sync: +70 MetaMask, +70 SEAL
+Sync: +61 MetaMask, +16 Polkadot, +63 SEAL, +16 Enkrypt_Blacklist
 
-Total domains: 729159
+Total domains: 729226
 
 Changes:
-- MetaMask: +70
-- SEAL: +70
+- MetaMask: +61
+- Polkadot: +16
+- SEAL: +63
+- Enkrypt_Blacklist: +16
