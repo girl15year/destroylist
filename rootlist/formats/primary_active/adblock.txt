@@ -1,4 +1,4 @@
-! Destroylist - Primary Active | adblock | 32835 domains | 2026-01-10 04:43 UTC
+! Destroylist - Primary Active | adblock | 32835 domains | 2026-01-10 06:43 UTC
 ! https://github.com/phishdestroy/destroylist
 
 [Adblock Plus]
