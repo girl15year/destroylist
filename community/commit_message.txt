@@ -1,6 +1,6 @@
 Sync: +43 MetaMask, +0 PhishDestroy, +45 SEAL
 
-Total domains: 730084
+Total domains: 730128
 
 Changes:
 - MetaMask: +43
