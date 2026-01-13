@@ -1,9 +1,7 @@
-Sync: +57 MetaMask, +76 CryptoFirewall, -86 OpenPhish, +0 PhishDestroy
+Sync: +50 MetaMask, +0 PhishDestroy
 
-Total domains: 731471
+Total domains: 731521
 
 Changes:
-- MetaMask: +57
-- CryptoFirewall: +76
-- OpenPhish: -86
+- MetaMask: +50
 - PhishDestroy: +0
