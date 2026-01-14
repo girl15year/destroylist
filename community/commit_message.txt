@@ -1,7 +1,7 @@
-Sync: +15 MetaMask, +0 PhishDestroy
+Sync: +13 MetaMask, +1 SPMedia_DetectedURLs
 
-Total domains: 731804
+Total domains: 731818
 
 Changes:
-- MetaMask: +15
-- PhishDestroy: +0
+- MetaMask: +13
+- SPMedia_DetectedURLs: +1
