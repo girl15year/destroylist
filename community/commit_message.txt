@@ -1,7 +1,9 @@
-Sync: +40 MetaMask, +0 PhishDestroy
+Sync: +76 MetaMask, +2 Polkadot, +0 PhishDestroy, +2 Enkrypt_Blacklist
 
-Total domains: 731988
+Total domains: 732061
 
 Changes:
-- MetaMask: +40
+- MetaMask: +76
+- Polkadot: +2
 - PhishDestroy: +0
+- Enkrypt_Blacklist: +2
