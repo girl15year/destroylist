@@ -1,8 +1,8 @@
-Sync: +27 MetaMask, +0 PhishDestroy, +2 Enkrypt_Blacklist
+Sync: +52 MetaMask, +0 PhishDestroy, +1 SPMedia_DetectedURLs
 
-Total domains: 732857
+Total domains: 732902
 
 Changes:
-- MetaMask: +27
+- MetaMask: +52
 - PhishDestroy: +0
-- Enkrypt_Blacklist: +2
+- SPMedia_DetectedURLs: +1
