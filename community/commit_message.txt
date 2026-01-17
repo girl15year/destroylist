@@ -1,6 +1,6 @@
-Sync: +35 MetaMask
+Sync: +9 MetaMask
 
-Total domains: 733681
+Total domains: 733688
 
 Changes:
-- MetaMask: +35
+- MetaMask: +9
