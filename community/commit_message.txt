@@ -1,6 +1,7 @@
-Sync: +35 MetaMask
+Sync: +9 MetaMask, +1 SPMedia_DetectedURLs
 
-Total domains: 733837
+Total domains: 733845
 
 Changes:
-- MetaMask: +35
+- MetaMask: +9
+- SPMedia_DetectedURLs: +1
