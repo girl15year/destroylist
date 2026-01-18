@@ -1,7 +1,6 @@
-Sync: +81 MetaMask, +12 OpenPhish
+Sync: +32 MetaMask
 
-Total domains: 733991
+Total domains: 734023
 
 Changes:
-- MetaMask: +81
-- OpenPhish: +12
+- MetaMask: +32
