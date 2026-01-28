@@ -1,10 +1,11 @@
-Sync: +66 MetaMask, +18 Codeesura, +0 PhishDestroy, +1 SPMedia_DetectedURLs, -2 Phishunt
+Sync: +70 MetaMask, +4 Polkadot, +0 PhishDestroy, +1 SPMedia_DetectedURLs, +4 Enkrypt_Blacklist, -3 Phishunt
 
-Total domains: 780044
+Total domains: 780112
 
 Changes:
-- MetaMask: +66
-- Codeesura: +18
+- MetaMask: +70
+- Polkadot: +4
 - PhishDestroy: +0
 - SPMedia_DetectedURLs: +1
-- Phishunt: -2
+- Enkrypt_Blacklist: +4
+- Phishunt: -3
