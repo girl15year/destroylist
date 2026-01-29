@@ -1,7 +1,8 @@
-Sync: +22 MetaMask, -11 Phishunt
+Sync: +25 MetaMask, +0 PhishDestroy, -1 Phishunt
 
-Total domains: 780377
+Total domains: 780401
 
 Changes:
-- MetaMask: +22
-- Phishunt: -11
+- MetaMask: +25
+- PhishDestroy: +0
+- Phishunt: -1
